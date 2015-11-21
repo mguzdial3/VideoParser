@@ -1,5 +1,5 @@
 # import the necessary packages
-import sys, os, imutils, cv, cv2, math, glob, csv
+import sys, os, cv, cv2, math, glob, csv
 import numpy as np
 
 
